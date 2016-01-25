@@ -1,0 +1,61 @@
+.emcabezado{
+	background-image: url('../img/grupal.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 130%;
+	height: 600px;
+}
+.tittle{
+	margin-top: 40px ;
+
+}
+.tittle .col-5 img{
+	width: 370px;
+	height: 60px;
+	margin: 20px 5px 0 0px;
+}
+.sumit a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	background: #fcb738;
+	display:inline-block;
+	margin-top:25px;
+	padding: 15px 40px 20px ;
+}
+.nav-header ul{
+	list-style-type: none;
+}
+.nav-header ul li{
+	display: inline-block;
+		margin-top: 5px;
+
+}
+.nav-header ul li a{
+	font-style: 12px ;
+	color : black;
+	margin-right:10px ;
+	text-decoration: none;
+}
+section .row .col-4 img{
+	width: 290px;
+	height: 200px;
+	margin: 70px 5px 3px 0;
+}
+.main .col-4 h3{
+	border-bottom: 1px solid black;
+	margin-bottom: 60px;
+}
+footer {
+	background: #323230;
+}
+.piedepag ul {
+	list-style-type: none;
+	margin: 30px 0;
+}
+.piedepag ul li{
+	display: inline-block;
+	font-size: 17px;
+	color: white;
+}
+
+
